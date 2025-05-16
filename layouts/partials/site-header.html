@@ -1,0 +1,12 @@
+<section style="position: relative; width: 100vw; height: 250px; background-color: #f0f0f0; overflow: hidden; margin: 0;">
+  <img src="{{ "images/header-hero.png" | absURL }}" 
+       alt="Hero Image"
+       style="width: 100%; height: 100%; object-fit: contain; display: block;">
+  
+  <!-- Title Overlay top-left -->
+  <div style="position: absolute; top: 10px; left: 10px;
+              background-color: rgba(0, 0, 0, 0.6); padding: 0.5rem 1rem; border-radius: 6px;
+              color: white; text-align: left; max-width: 90vw;">
+    <h1 style="margin: 0; font-size: 1.5rem;">{{ .Site.Title }}</h1>
+  </div>
+</section>

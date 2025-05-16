@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main class="content">
+
+
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <header class="mb4">
+      <h1 class="f2">{{ .Title }}</h1>
+      <p class="gray">{{ .Params.address }}, {{ .Params.city }}, {{ .Params.state }} {{ .Params.zip }}</p>
+      <p><a href="{{ .Params.location_link }}" target="_blank">📍 View on Google Maps</a></p>
+    </header>
+
+    <section class="mb4">
+        <h2 class="f3 mt0">Match Stats</h2>
+        <ul class="list pl0">
+          <li>🏏 <strong>Matches:</strong> {{ .Params.matches }}</li>
+          <li>🔴 <strong>Avg 1st Innings:</strong> {{ .Params.avg_1st_inns }}</li>
+          <li>🔵 <strong>Avg 2nd Innings:</strong> {{ .Params.avg_2nd_inns }}</li>
+          <li>✅ <strong>1st Innings Wins:</strong> {{ index .Params "1st_wins" }}</li>
+          <li>🟢 <strong>2nd Innings Wins:</strong> {{ index .Params "2nd_wins" }}</li>
+        </ul>
+      </section>
+      
+
+    <section>
+      <p>🏆 <strong>League:</strong> {{ .Params.tag_league_name }}</p>
+      <p>🎾 <strong>Ball Type:</strong> {{ .Params.tag_ball_type }}</p>
+    </section>
+  </article>
+</main>
+{{ end }}

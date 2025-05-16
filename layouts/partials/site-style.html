@@ -1,0 +1,8 @@
+{{/* layouts/partials/site-style.html */}}
+
+{{ $css := partial "func/style/GetMainCSS.html" . }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+{{ range site.Params.custom_css }}
+  <link rel="stylesheet" href="{{ . | relURL }}">
+{{ end }}

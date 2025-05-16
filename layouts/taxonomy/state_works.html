@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+  <h1 class="f2 fw6 mv4">Cricket Grounds in {{ .Title | upper }}</h1>
+
+  <div class="flex flex-wrap justify-start">
+    {{ range .Pages.ByTitle }}
+      <div class="ma2 pa3 ba b--black-10 br3 w-100 w-50-m w-25-l bg-light-gray shadow-1" style="max-width: 290px;">
+        <a href="{{ .RelPermalink }}" class="link dim blue f5 fw6 mb2 db">
+          {{ .Title }}
+        </a>
+        <p class="gray f6 mv1">
+          {{ with .Params.location }}{{ . }}{{ end }}
+        </p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

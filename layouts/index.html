@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>Browse Cricket Grounds by State</h1>
+<!-- <h2>Hello from index.html</h2> -->
+<!-- TEMP DEBUG -->
+<!-- <pre>{{ site.Taxonomies | jsonify }}</pre> -->
+
+<div>
+  {{ range $state, $_ := site.Taxonomies.states }}
+    <a href="{{ "/states/" | relURL }}{{ $state | urlize }}/" class="link dim br2 ph3 pv2 dib white bg-blue ma2">{{ $state | upper }}</a>
+  {{ end }}
+</div>
+{{ end }}

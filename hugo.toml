@@ -1,0 +1,10 @@
+baseURL = 'https://ratbrain.github.io/allaboutcricket/'
+languageCode = 'en-us'
+title = 'Cricket Grounds Directory Listings'
+relativeURLs = true
+canonifyURLs = true
+
+theme = 'ananke'
+[taxonomies]
+  state = "states"
+  tag = "tag_league_name"
