@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PA on Cricket Grounds Directory Listings</title>
+    <title>PA on Comprehensive Cricket Grounds Directory</title>
     <link>https://ratbrain-ai.github.io/allaboutcricket/states/pa/</link>
-    <description>Recent content in PA on Cricket Grounds Directory Listings</description>
+    <description>Recent content in PA on Comprehensive Cricket Grounds Directory</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://ratbrain-ai.github.io/allaboutcricket/states/pa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banksville Park</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/banksville-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/banksville-park/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=1459+Crane+Ave+Pittsburgh+PA+15220&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 3&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 115&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 96&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 2&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 1&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>CC1</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/cc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/cc1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=6838+Route+338+lot+2%2C3+and+4.+Knox+PA+16232&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 108&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 179&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 148&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 54&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 48&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>CC1</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/cc1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/cc1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=6838+Route+338+lot+2%2C3+and+4.+Knox+PA+16232&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 108&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 179&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 148&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 54&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 48&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>CC2</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/cc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/cc2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=6838+Route+338+lot+2%2C3+and+4.+Knox+PA+16232&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 103&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 170&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 142&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 49&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 49&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>CC2</title>
@@ -23,10 +44,115 @@
     </item>
     <item>
       <title>Chartier&#39;s Valley Intermediate School</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/chartier-s-valley-intermediate-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds-old/pa/chartier-s-valley-intermediate-school/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=2030+Swallow+Hill+Rd%2C+Pittsburgh%2C+PA+15220&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 422&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 96&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 76&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 218&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 193&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Chartier&#39;s Valley Intermediate School</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/chartier-s-valley-intermediate-school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/chartier-s-valley-intermediate-school/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=2030+Swallow+Hill+Rd%2C+Pittsburgh%2C+PA+15220&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 422&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 96&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 76&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 218&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 193&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Collier Township</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/collier-township/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/collier-township/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=5+Pvt+Lobaugh+Dr%2C+Oakdale%2C+PA+15071&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 71&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 66&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 57&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 40&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 31&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Edgebrook</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/edgebrook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/edgebrook/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=2372+Corrigan+Dr%2C+South+Park+Township%2C+PA+15129&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 37&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 115&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 92&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 21&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 16&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Edgebrook Field</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/edgebrook-field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/edgebrook-field/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=2372+Corrigan+Dr%2C+South+Park+Township%2C+PA+15129&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 188&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 172&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 142&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 84&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 84&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Galaxy Field</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/galaxy-field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/galaxy-field/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=Park+Access+Rd%2C+Moon+Twp%2C+PA+15108&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 8&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 90&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 76&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 3&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 5&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Green Tree Park</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/green-tree-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/green-tree-park/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=905+Greentree+Rd%2C+Pittsburgh%2C+PA+15220&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 1&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 84&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 90&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 0&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 1&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hempfield</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/hempfield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/hempfield/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=220+Forbes+Trail+Rd%2CGreensburgh%2C+PA+15601&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 362&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 177&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 145&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 173&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 173&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Knob Hill</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/knob-hill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/knob-hill/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=40+Knob+Rd%2C+Wexford%2C+PA+15090&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 20&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 82&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 73&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 5&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 15&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Leopold Park</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/leopold-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/leopold-park/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=800+US-30%2C+Imperial%2C+PA+15126&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 3&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 76&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 79&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 0&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 3&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: ppcl&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Linbrook Park</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/linbrook-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/linbrook-park/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=Linbrook+Park+Dr%2C+Sewickley%2C+PA+15143&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 564&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 154&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 125&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 269&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 274&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PittCL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: leather&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Linbrook@Wexford</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/linbrook-wexford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/linbrook-wexford/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=0+Big+Sewickley+Creek+Rd%2CSewickley+PA+15143&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 48&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 78&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 66&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 28&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 17&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Montour Junction Sports Complex</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/montour-junction-sports-complex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/montour-junction-sports-complex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=2419+State+Ave%2C+Coraopolis%2C+PA+15108&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 81&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 59&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 47&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 34&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 46&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>North Fayette Township</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/north-fayette-township/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/north-fayette-township/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=580+Donaldson+Road++Oakdale%2C+PA+15071&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 4&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 60&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 57&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 1&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 3&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Pine Community Park</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/pine-community-park/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/pine-community-park/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=Pine+Community+Park%2C+100+Pine+Park+Dr%2C+Wexford%2C+PA+15090&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 11&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 81&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 74&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 4&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 7&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Scott Township</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/scott-township/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/grounds/pa/scott-township/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ground Stats&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🏟 &lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://www.google.com/maps/search/?api=1&amp;amp;query=Scott+Township+Park+2%2C+Park+Dr%2C+Carnegie%2C+PA+15106&#34;&gt;View Map&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🏏 &lt;strong&gt;Matches Played&lt;/strong&gt;: 426&lt;/li&gt;&#xA;&lt;li&gt;🔴 &lt;strong&gt;Avg 1st Innings&lt;/strong&gt;: 89&lt;/li&gt;&#xA;&lt;li&gt;🔵 &lt;strong&gt;Avg 2nd Innings&lt;/strong&gt;: 69&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;1st Innings Wins&lt;/strong&gt;: 224&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;2nd Innings Wins&lt;/strong&gt;: 190&lt;/li&gt;&#xA;&lt;li&gt;🏆 &lt;strong&gt;League&lt;/strong&gt;: PSL&lt;/li&gt;&#xA;&lt;li&gt;🎾 &lt;strong&gt;Ball Type&lt;/strong&gt;: tennis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
