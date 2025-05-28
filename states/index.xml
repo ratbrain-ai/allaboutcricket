@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>States on Comprehensive Cricket Grounds Directory</title>
+    <title>States on Cricket Grounds Directory Listings</title>
     <link>https://ratbrain-ai.github.io/allaboutcricket/states/</link>
-    <description>Recent content in States on Comprehensive Cricket Grounds Directory</description>
+    <description>Recent content in States on Cricket Grounds Directory Listings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://ratbrain-ai.github.io/allaboutcricket/states/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AL</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/al/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AZ</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/az/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/az/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CA</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/states/ca/</link>
@@ -15,10 +29,38 @@
       <description></description>
     </item>
     <item>
+      <title>CT</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/ct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/ct/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>FL</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/states/fl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/states/fl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GA</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/ga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/ga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ID</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/id/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IL</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/il/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/il/</guid>
       <description></description>
     </item>
     <item>
@@ -36,10 +78,31 @@
       <description></description>
     </item>
     <item>
+      <title>MA</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/ma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/ma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MD</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/md/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>MI</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/states/mi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/states/mi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MO</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/mo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/mo/</guid>
       <description></description>
     </item>
     <item>
@@ -50,10 +113,31 @@
       <description></description>
     </item>
     <item>
+      <title>NJ</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/nj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/nj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NY</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/ny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/ny/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OH</title>
       <link>https://ratbrain-ai.github.io/allaboutcricket/states/oh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/states/oh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OR</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/or/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/or/</guid>
       <description></description>
     </item>
     <item>
@@ -68,6 +152,27 @@
       <link>https://ratbrain-ai.github.io/allaboutcricket/states/tx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ratbrain-ai.github.io/allaboutcricket/states/tx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VA</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/va/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/va/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WA</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/wa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/wa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WI</title>
+      <link>https://ratbrain-ai.github.io/allaboutcricket/states/wi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ratbrain-ai.github.io/allaboutcricket/states/wi/</guid>
       <description></description>
     </item>
   </channel>
